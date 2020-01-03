@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://notedump.com/"
+baseurl = "https://trusting-snyder-5fb09b.netlify.com/"
 languageCode = "en"
 
 #title = "Notedump"
@@ -19,7 +19,7 @@ theme = "hyde-hyde"
     author = "Author"
     title = "Title"
     # description = "..."
-    authorimage = "/img/notedump.ico"
+    authorimage = "/img/notedump.png"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
