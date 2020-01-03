@@ -2,7 +2,7 @@
 baseurl = "https://trusting-snyder-5fb09b.netlify.com/"
 languageCode = "en"
 
-#title = "Notedump"
+title = "Notedump"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
