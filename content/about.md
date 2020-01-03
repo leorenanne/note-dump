@@ -1,17 +1,11 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About Notedump"
+date = "2020-01-03"
 +++
 
-Hugo is a static site engine written in Go.
+"This is the place where Leoren dumps her notes. Tada! 
+Note that this page is a literal "Note Dump", so it's purely my notes and not a 100% source of truth. 
+But if it somehow helps you get by in anyway, then you're welcome. 💁🏻  "
 
-
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+This page is originally built using [Jekyll](https://jekyllrb.com/), but is now built using [Hugo](https://gohugo.io/getting-started/quick-start/) as of January 2020. 
+It also deployed and hosted using [Netlify](https://www.netlify.com/).

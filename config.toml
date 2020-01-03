@@ -16,17 +16,17 @@ theme = "hyde-hyde"
 
 ## Site Settings
 [params]
-    author = "Author"
-    title = "Title"
+    author = "Leoren Tanyag"
+    title = "Notedump"
     # description = "..."
     authorimage = "/img/notedump.png"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
-    copyright = "htr3n"
-    license = "CC BY-SA 4.0"
-    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
-    showBuiltWith = true
+#    copyright = ""
+#    license = ""
+#    licenseURL = ""
+    showBuiltWith = false
 
     # https://highlightjs.org
     highlightjs = true
@@ -43,16 +43,11 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "<username>"
-    instagram = "<username>"
-    xing = "<username>"
-    linkedin = "<username>"
-    twitter = "<username>"
-    facebook = "<username>"
-    stackoverflow = "<username>"
-    telegram = "<username>"
-    email = "your-email@example.com"
-    # gravatar = "your-email@example.com"
+    github = "https://github.com/leorenanne"
+    instagram = "https://www.instagram.com/leorenanne/"
+    linkedin = "https://au.linkedin.com/in/leoren-tanyag-733a05b6"
+    twitter = "https://twitter.com/leorenanne"
+    email = "leoren_anne@hotmail.com"
 
 ## Main Menu
 [[menu.main]]
@@ -65,11 +60,11 @@ theme = "hyde-hyde"
     weight = 200
     identifier = "posts"
     url = "/posts/"
-[[menu.main]]
-    name = "Portfolio"
-    identifier = "portfolio"
-    weight = 300
-    url = "/portfolio/"
+#[[menu.main]]
+#    name = "Portfolio"
+#    identifier = "portfolio"
+#    weight = 300
+#    url = "/portfolio/"
 [[menu.main]]
     name = "About"
     identifier = "about"
