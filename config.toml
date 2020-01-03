@@ -43,10 +43,10 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "https://github.com/leorenanne"
-    instagram = "https://www.instagram.com/leorenanne/"
-    linkedin = "https://au.linkedin.com/in/leoren-tanyag-733a05b6"
-    twitter = "https://twitter.com/leorenanne"
+    github = "leorenanne"
+    instagram = "leorenanne"
+    linkedin = "leoren-tanyag-733a05b6"
+    twitter = "leorenanne"
     email = "leoren_anne@hotmail.com"
 
 ## Main Menu
