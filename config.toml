@@ -126,7 +126,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "Leoren's note dumps"
 
   # Customization
   # Define the behavior of the sidebar
