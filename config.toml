@@ -82,14 +82,14 @@ canonifyurls = true
   identifier = "linkedin"
   name = "Linkedin"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-linkedin\"></i>"
-  url = "https://twitter.com/leorenanne"
+  url = "https://www.linkedin.com/in/leoren-tesaluna/"
 
   [[menu.links]]
     weight = 4
     identifier = "email"
     name = "Email"
     pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
-    url = "mailto:leoren_anne@hotmail.com"
+    url = "mailto:leoren.anne25@gmail.com"
 
 #[[menu.links]]
 #  weight = 2
